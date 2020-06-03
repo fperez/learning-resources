@@ -42,7 +42,7 @@ ________________________________________________________
 * fundamentals of version control 
 * specific ways we will use GitHub for the hackweek
 
-### 11:00 AM to 12:30 PM: Tutorial #2: Jupyter and iPython
+### 11:00 AM to 12:30 PM: Tutorial #2: Jupyter and IPython
 
 *Lead Instructor: Lindsey Heagy*
 
